@@ -1,0 +1,2 @@
+# yusup
+bitcoin mining
